@@ -1,7 +1,9 @@
 # ShopLF
 Hi this is a test task. 
-4 pager with connected database.  
-Home: 
+4 pager with and connected database.  
+
+Pages:
+- Home
 - Category page 
 - Card Product 
 - Basket
