@@ -5,5 +5,6 @@ Home:
 - Category page 
 - Card Product 
 - Basket
+
 Used stac: 
 - Laravel + MySQL
